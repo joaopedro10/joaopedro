@@ -1,3 +1,4 @@
+// by João Pedro Lopes da Silva - 2º Ano "C" - CEV-Frei
 const modal_overlay = document.querySelector ('.modal_overlay'); // variável que procura e guarda a div class "modal_overlay"
 const cards = document.querySelectorAll ('.card'); // variável que procura e guarda a div class "card"
 

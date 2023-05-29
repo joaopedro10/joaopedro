@@ -111,6 +111,9 @@ header {
 
 .card {
     background-color: var(--subcor);
+    text-align: center;
+    border-radius: 20px;
+    cursor: pointer;
 }
 
 .card_image img {
@@ -124,6 +127,10 @@ header {
 .card_info {
     display: grid;
     grid-template-columns: 1fr 1fr;
+}
+
+.card_info p {
+    padding: 5px 20px;
 }
 
 .card_price {
